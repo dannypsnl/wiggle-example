@@ -1,0 +1,3 @@
+huygens @ git+https://github.com/punkdit/huygens@c0a278d59c9ccbf7e4b85c6ea762584ad3a57177
+numpy==2.0.1
+scipy==1.14.0
