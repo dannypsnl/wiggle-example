@@ -1,3 +1,5 @@
 bin/
 lib/
+.ipynb_checkpoints/
+share/
 *.cfg
