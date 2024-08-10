@@ -21,6 +21,7 @@ prompt_toolkit==3.0.47
 psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
+pycairo==1.26.1
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
 pyzmq==26.1.0
