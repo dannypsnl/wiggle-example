@@ -1,0 +1,10 @@
+[tool.poetry]
+authors = ["Lim"]
+description = ""
+name = "wiggle-example"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+pycairo = { version = "^1.26", python = "^3.10" }
+scipy = { version = "^1.14", python = "^3.10" }
+huygens = { git = "https://github.com/punkdit/huygens.git", branch = "master", python = ">=3.5" }
