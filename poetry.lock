@@ -137,5 +137,5 @@ test = ["Cython", "array-api-strict", "asv", "gmpy2", "hypothesis (>=6.30)", "me
 
 [metadata]
 lock-version = "2.0"
-python-versions = "*"
-content-hash = "69fe0680673ad6c0ba21ff84cb76d1b60d77e9871304ab6588c1540333ad4674"
+python-versions = "^3.10"
+content-hash = "02302180484bd979d044098dcbdc7e39681e4d77be883200d80602578fe115b5"
