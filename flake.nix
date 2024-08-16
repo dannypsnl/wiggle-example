@@ -39,10 +39,10 @@
         # Use this shell for changes to pyproject.toml and poetry.lock.
         devShells.poetry = pkgs.mkShell {
           packages = with pkgs; [
-	    cairo
-	    pkg-config
-	    poetry
-	  ];
+	          cairo
+            pkg-config
+            poetry
+          ];
         };
       });
 }
