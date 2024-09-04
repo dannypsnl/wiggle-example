@@ -11,3 +11,7 @@ pycairo = { version = "^1.26" }
 scipy = { version = "^1.14" }
 huygens = { git = "https://github.com/punkdit/huygens.git", branch = "master" }
 pygments = "^2.18.0"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.1.1"
+
