@@ -10,3 +10,4 @@ python = "^3.10"
 pycairo = { version = "^1.26" }
 scipy = { version = "^1.14" }
 huygens = { git = "https://github.com/punkdit/huygens.git", branch = "master" }
+pygments = "^2.18.0"
