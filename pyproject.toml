@@ -14,4 +14,5 @@ pygments = "^2.18.0"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.1.1"
+ipykernel = "^6.29.5"
 
